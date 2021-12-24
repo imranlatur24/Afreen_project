@@ -1,0 +1,26 @@
+Write a program to find the compound interest for given principal amount P, time Tm(in years), and interest rate R.
+Input
+The input contains three integers P, R, and Tm.
+
+Constraints:-
+1 < = P < = 10^3
+1 < = R < = 100
+1 < = Tm < = 20
+Output
+Print the compound interest by 2 decimal places.
+
+-------------------------------------------------------------------------------
+
+Sample Input:
+100 1 2
+
+Sample Output:-
+2.01
+
+Sample Input:
+1 99 2
+
+Sample Output:-
+2.96
+
+------------------------------------------------------------------------------------
